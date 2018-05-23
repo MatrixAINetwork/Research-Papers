@@ -13,6 +13,6 @@ In such case, we may need special hardware or software to detect instructions of
 2.Reconfigurable Hardware, with a perfomance 5 times as high as the current first-class FPGA devices, and 1.5 times as high as 16 core processors.
 
 ## How it Enables Matrix's Platform
-
+ 
 This will significantly increase our ASIC's perfomance ratings, eliminating the inherent synchronization bottlenecks. Thus, there will be a more efficient use of Matrix platforms in future, in order to achieve our goal of 50K TPS.
 
